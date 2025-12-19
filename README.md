@@ -1,3 +1,9 @@
+# Air Quality Index applet for Linux Mint
+
+Linux Mint missing an AQI applet, I tried making my own. This is not proprietary code. | Relied on AI for fine tuning 
+
+Terminal commands to enable the applet and remove it:
+
 sudo apt update 
 
 sudo apt install -y gjs curl cinnamon-dev
