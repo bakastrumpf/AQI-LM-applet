@@ -2,6 +2,8 @@
 
 Linux Mint missing an AQI applet, I tried making my own. This is not proprietary code. | Relied on AI for fine tuning 
 
+* * *
+
 Terminal commands to enable the applet and remove it:
 
 sudo apt update 
