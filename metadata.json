@@ -1,0 +1,7 @@
+{
+  "uuid": "aqi@baka",
+  "name": "Air Quality Index",
+  "description": "Displays current air quality index (AQI) using WAQI",
+  "version": "1.0",
+  "max-instances": 1
+}
