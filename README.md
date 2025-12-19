@@ -11,7 +11,9 @@ cd ~/.local/share/cinnamon/applets/aqi@baka
 code .
 
 Alt + F2 / restart system
+
 r
+
 Enable the applet:
 1) Right-click panel → Applets
 2) Find Air Quality Index
