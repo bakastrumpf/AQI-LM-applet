@@ -36,3 +36,7 @@ zip -r aqi@baka.zip aqi@baka
 Remove:
 
 rm -rf ~/.local/share/cinnamon/applets/aqi@baka
+
+* * * 
+
+No free public APIs for my hometown, so I am forced to use the nearest station API, which is about 40 miles away, thus pointless. Need to find a workaround.
