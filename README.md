@@ -4,6 +4,8 @@ Linux Mint missing an AQI applet, I tried making my own. This is not proprietary
 
 * * *
 
+No free public APIs for my hometown, so I am forced to use the nearest station API, which is about 40 miles away, thus pointless. Need to find a workaround.
+
 Terminal commands to enable the applet and remove it:
 
 sudo apt update 
@@ -37,6 +39,8 @@ Remove:
 
 rm -rf ~/.local/share/cinnamon/applets/aqi@baka
 
-* * * 
+* * *
+* * *
+* * *
 
-No free public APIs for my hometown, so I am forced to use the nearest station API, which is about 40 miles away, thus pointless. Need to find a workaround.
+
