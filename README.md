@@ -1,4 +1,5 @@
 # Air Quality Index applet for Linux Mint
+<img width="371" height="141" alt="Screenshot from 2025-12-18 21-32-19" src="https://github.com/user-attachments/assets/279112bc-409d-4f24-8ab4-dbb7947650dc" />
 
 Linux Mint missing an AQI applet, I tried making my own. This is not proprietary code. | Relied on AI for fine tuning 
 
