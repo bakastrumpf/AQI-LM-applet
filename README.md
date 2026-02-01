@@ -40,6 +40,10 @@ Remove:
 
 rm -rf ~/.local/share/cinnamon/applets/aqi@baka
 
+Working image:
+<img width="402" height="160" alt="Screenshot from 2025-12-17 23-26-10" src="https://github.com/user-attachments/assets/8b5512ea-e7b5-4279-9cf3-ff3945943dcd" />
+
+
 * * *
 * * *
 * * *
